@@ -9,7 +9,7 @@ Este proyecto consta de un sitio web interactivo para la recepción de donacione
 
 - Formulario de donación: Permite que los usuarios registren su nombre, correo electrónico y la cantidad que desean donar. Además, pueden proporcionar un mensaje personal y describir los productos que desean donar.
 - Sección informativa: Explica el objetivo de TRIDON y qué tipo de donaciones son aceptadas.
-- Redes Sociales: Los usuarios pueden acceder a las redes sociales de TRIDON para más información y participación.
+- Redes Sociales: Los usuarios pueden acceder a las redes sociales de TRIDON para más información y participación. (las redes son falsas pero aun asi quiero que de una impresion haci.)
 
 # Estructura del Proyecto
 
